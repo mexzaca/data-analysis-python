@@ -9,11 +9,11 @@ Este proyecto analiza un conjunto de datos utilizando **Python, Pandas y SQL** p
 - **Jupyter Notebook**
 - **Power BI / Tableau** (opcional)
 
-## 📂 Estructura del repositorio
-📂 data/ → Contiene los datasets utilizados.
-📂 scripts/ → Contiene los scripts en Python para análisis.
-📂 notebooks/ → Contiene notebooks de Jupyter con los análisis.
-📂 requirements.txt → Librerías necesarias.
+## Estructura del repositorio
+data/ → Contiene los datasets utilizados.
+scripts/ → Contiene los scripts en Python para análisis.
+notebooks/ → Contiene notebooks de Jupyter con los análisis.
+requirements.txt → Librerías necesarias
 
 Instalación
 
