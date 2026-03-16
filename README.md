@@ -1,9 +1,9 @@
-# 📊 Análisis de Datos con Python y SQL
+# Análisis de Datos con Python y SQL
 
-## 📌 Descripción
+## Descripción
 Este proyecto analiza un conjunto de datos utilizando **Python, Pandas y SQL** para extraer información valiosa. Se generan visualizaciones con **Matplotlib y Seaborn** para interpretar los resultados.
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **SQL** (PostgreSQL / MySQL)
 - **Jupyter Notebook**
@@ -15,12 +15,12 @@ Este proyecto analiza un conjunto de datos utilizando **Python, Pandas y SQL** p
 📂 notebooks/ → Contiene notebooks de Jupyter con los análisis.
 📂 requirements.txt → Librerías necesarias.
 
-🔧 Instalación
+Instalación
 
 git clone https://github.com/mexzaca/data-analysis-python.git
 cd data-analysis-python
 pip install -r requirements.txt
 
-📬 Contacto
-📧 Mike.Exza@gmail.com
+Contacto
+Mike.Exza@gmail.com
 
